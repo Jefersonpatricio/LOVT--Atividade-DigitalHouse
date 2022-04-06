@@ -243,5 +243,5 @@ li {
 
 p{
     margin: 7px;
-    font-size: clamp(1em, 1em + 1vw, 1.5em);
+    font-size: 1.2rem;
 }
