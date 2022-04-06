@@ -112,13 +112,15 @@ body{
 }
 
 .new{
-    width: 25%;
-    height: 20%;
+    width: 19%;
+    height: 39px;
     background-color: #51D275;
     color: #ffffff;
-    border-radius: 15px;
+    border-radius: 60px;
     text-align: center;
-    padding: 3px;
+    padding: 6px;
+    margin: 10px;
+    font-size: 1.4rem;
 }
 
 .imagem-3{
@@ -126,13 +128,15 @@ body{
 }
 
 .sale{
-    width: 25%;
-    height: 20%;
+    width: 19%;
+    height: 39px;
     background-color: #DC9730;
     color: #ffffff;
-    border-radius: 15px;
+    border-radius: 40px;
     text-align: center;
-    padding: 3px;
+    margin: 10px;
+    padding: 6px;
+    font-size: 1.4rem;
 }
 
 .yourStyle{
