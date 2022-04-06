@@ -15,8 +15,8 @@ main{
 }
 
 body{
-    padding: 0px;
-    margin: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 .header{
@@ -223,7 +223,7 @@ li {
     display: flex;
     flex-direction: column;
     position: relative;
-    left: 7.2%;
+    left: 2.4%;
     bottom: -30px;
     font-size: 1.2rem;
 
@@ -235,7 +235,7 @@ li {
     position: relative;
     justify-content: space-between;
     bottom: -40px;
-    right: 6%;
+    right: 11%;
 }
 
 .logos img{
