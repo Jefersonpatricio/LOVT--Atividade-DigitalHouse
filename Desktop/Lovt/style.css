@@ -223,7 +223,7 @@ li {
     display: flex;
     flex-direction: column;
     position: relative;
-    align-items: center;
+    left: 7.2%;
     bottom: -30px;
     font-size: 1.2rem;
 
@@ -235,6 +235,7 @@ li {
     position: relative;
     justify-content: space-between;
     bottom: -40px;
+    right: 6%;
 }
 
 .logos img{
